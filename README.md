@@ -1,7 +1,7 @@
 README
 # piu-prediction
 
-This repository contains the files and notebooks for the internship project based on the Kaggle competition "Problematic Internet Use".
+This repository contains the files and notebooks for the project based on the Kaggle competition "Problematic Internet Use".
 
 ## Structure
 
